@@ -1,5 +1,3 @@
-# <p align="center"> AdminsGe Product
-
 <p align="center">
   <a href="https://hackers.ge" target="_blank"><img width="728" height="90" src="https://media.giphy.com/media/NcSRM70PbxRbR0PMZJ/giphy.gif">
     </p>
