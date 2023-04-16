@@ -1,7 +1,3 @@
-<p align="center">
-  <a href="https://hackers.ge" target="_blank"><img width="728" height="90" src="https://media.giphy.com/media/NcSRM70PbxRbR0PMZJ/giphy.gif">
-    </p>
-
 ### <p align="center"> :unlock: Programs & Applications for free :computer:
 
  <p align="center">
@@ -35,9 +31,6 @@
 <p align="center">
 <a href="https://Khetaguridimitri.github.io" target="_blank"><img width="300" height="40" src="https://img.shields.io/badge/WEBSITE-666666?style=for-the-badge&logo=hacker&logoColor=gray">
 </p>
-
-<p align="center">
-  <a href="https://www.gate.io/ref/3301721" target="_blank"><img width="480" height="150" src="https://media.giphy.com/media/r5PH7oEtPW7hCnZiWN/giphy.gif"></p>
 
 <p align="center">
 <a href="https://drive.google.com/drive/folders/1JC1U2NBwM3G0pQPQY2mPfB8Jva2Dd55t?usp=share_link" target="_blank"><img width="300" height="40" src="https://img.shields.io/badge/Download from Google Drive-f54242?style=for-the-badge&logo=google&logoColor=white">   
